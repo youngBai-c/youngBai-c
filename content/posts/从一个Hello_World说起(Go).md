@@ -1,7 +1,8 @@
 ---
 title: "从一个Hello_World说起(Go)"
 date: 2021-11-10T19:16:34+08:00
-draft: true
+draft: false
+category: "Go语言"
 ---
 
 
